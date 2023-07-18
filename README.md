@@ -1,12 +1,13 @@
-<center><h1>ABHIJITH DAMERUPPALA</h1></center>
-###WELCOME TO MY GITHUB
-###THIS IS MY TECH STACK
+
 <!--
 **abh1jith/abh1jith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 <div class="card">
+	<center><h1>ABHIJITH DAMERUPPALA</h1></center>
+<h2>WELCOME TO MY GITHUB</h2>
+<h2>THIS IS MY TECH STACK</h2>
 <div class="container">
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
