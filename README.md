@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+<body>
 <center><h1>ABHIJITH DAMERUPPALA</h1></center>
 
 <div class="card">
@@ -49,4 +50,17 @@ Here are some ideas to get you started:
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abh1jith&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 </div>
+<div class="container">
+  <footer class="py-3 my-4 mt-auto">
+    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+      <li class="nav-item"><a href="https://abhijithdameruppala.netlify.app/" class="nav-link px-2 text-body-secondary"
+          target="_blank">Portfolio</a></li>
+      <li class="nav-item"><a href="https://www.linkedin.com/in/abhijithdameruppala/"
+          class="nav-link px-2 text-body-secondary" target="_blank">LinkedIn</a></li>
+    </ul>
+    <br>
+    <p class="text-center text-body-secondary">&copy; 2023 ABHIJITH DAMERUPPALA</p>
+  </footer>
+</div>
+</body>
 
