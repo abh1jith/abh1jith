@@ -9,7 +9,10 @@ Here are some ideas to get you started:
 </head>
 <body>
 <center><h1>ABHIJITH DAMERUPPALA</h1></center>
-
+<p style="justify-content: center;"><a href="https://www.linkedin.com/in/abhijithdameruppala/"
+          class="nav-link px-2 text-body-secondary" target="_blank">LinkedIn</a>
+	<a href="https://abhijithdameruppala.netlify.app/" class="nav-link px-2 text-body-secondary"
+          target="_blank">Portfolio</a></p>
 <div class="card">
 <p>Welcome to my Github Profile!</p>
 <p>THIS IS MY TECH STACK</p>
@@ -56,10 +59,8 @@ Here are some ideas to get you started:
 <div class="container">
   <footer class="py-3 my-4 mt-auto">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-      <li class="nav-item"><a href="https://abhijithdameruppala.netlify.app/" class="nav-link px-2 text-body-secondary"
-          target="_blank">Portfolio</a></li>
-      <li class="nav-item"><a href="https://www.linkedin.com/in/abhijithdameruppala/"
-          class="nav-link px-2 text-body-secondary" target="_blank">LinkedIn</a></li>
+      <li class="nav-item"></li>
+      <li class="nav-item"></li>
     </ul>
     <br>
     <p class="text-center text-body-secondary">&copy; 2023 ABHIJITH DAMERUPPALA</p>
