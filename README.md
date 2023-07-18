@@ -4,10 +4,11 @@
 
 Here are some ideas to get you started:
 -->
+<center><h1>ABHIJITH DAMERUPPALA</h1></center>
+
 <div class="card">
-	<center><h1>ABHIJITH DAMERUPPALA</h1></center>
-<h2>WELCOME TO MY GITHUB</h2>
-<h2>THIS IS MY TECH STACK</h2>
+<p>Welcome to my Github Profile!</p>
+<p>THIS IS MY TECH STACK</p>
 <div class="container">
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
