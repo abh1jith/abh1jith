@@ -1,6 +1,6 @@
 <center><h1>ABHIJITH DAMERUPPALA</h1></center>
-### WELCOME TO MY GITHUB
-### THIS IS MY TECH STACK
+###WELCOME TO MY GITHUB
+###THIS IS MY TECH STACK
 <!--
 **abh1jith/abh1jith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
