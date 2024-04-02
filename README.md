@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://abhijithdameruppala.netlify.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/abh1jith](https://github.com/abh1jith)
-
-- 📫 How to reach me **adameru@iu.edu**
+- 📫 Reach me at **adameru@iu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
